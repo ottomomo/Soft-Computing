@@ -1,0 +1,25 @@
+﻿  test.cpp
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\neurons.h(31): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Pattern' cuando no hay ninguna variable declarada
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\neurons.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\neurons.h(64): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\neurons.h(116): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(25): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(29): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(32): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(71): warning C4018: '<': no coinciden signed/unsigned
+c:\users\momo\source\repos\multilayerperceptron\multilayerperceptron\test.cpp(73): warning C4018: '<': no coinciden signed/unsigned
+  MultiLayerPerceptron.vcxproj -> C:\Users\MoMo\source\repos\MultiLayerPerceptron\Debug\MultiLayerPerceptron.exe

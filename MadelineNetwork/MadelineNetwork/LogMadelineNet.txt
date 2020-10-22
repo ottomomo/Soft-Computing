@@ -1,0 +1,32 @@
+0 test pattern
+Neuron 'X' responded with the value: 0.875
+0 test pattern
+Neuron 'Y' responded with the value: 0.721688
+0 test pattern
+Neuron 'Z' responded with the value: 0.67082
+=> network has recognized letter 'X' with level of confidence = 0.875
+
+1 test pattern
+Neuron 'X' responded with the value: 0.721688
+1 test pattern
+Neuron 'Y' responded with the value: 0.833333
+1 test pattern
+Neuron 'Z' responded with the value: 0.645497
+=> network has recognized letter 'Y' with level of confidence = 0.833333
+
+2 test pattern
+Neuron 'X' responded with the value: 0.67082
+2 test pattern
+Neuron 'Y' responded with the value: 0.645497
+2 test pattern
+Neuron 'Z' responded with the value: 1
+=> network has recognized letter 'Z' with level of confidence = 1
+
+3 test pattern
+Neuron 'X' responded with the value: 0.223607
+3 test pattern
+Neuron 'Y' responded with the value: 0
+3 test pattern
+Neuron 'Z' responded with the value: 0.5
+=> network has recognized letter 'Z' with level of confidence = 0.5
+

@@ -1,0 +1,22 @@
+---- MADALINE network construction ----
+3 // the number of template patterns
+4 // horizontal resolution of a single character
+4 // vertical resolution of a single character
+X // name of the first character
+//character's shape definition
+# - - #
+- # # -
+- # # -
+# - - #
+Y //the name of the second character
+//character's shape definition
+# - - #
+- # # -
+- # - -
+# - - -
+Z //the name of the third character
+//character's shape definition
+# # # #
+- - # -
+- # - -
+# # # # 

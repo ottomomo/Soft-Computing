@@ -1,0 +1,7 @@
+https://www.codeproject.com/Articles/13582/Back-propagation-Neural-Net
+
+http://www.philbrierley.com/code.html
+
+http://www.cs.us.es/cursos/ia2/temas/tema-05.pdf
+
+http://mercurio.ugr.es/pedro/tutoriales/gaicm1/presentacion.pdf

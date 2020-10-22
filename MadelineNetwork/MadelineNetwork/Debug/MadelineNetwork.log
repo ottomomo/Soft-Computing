@@ -1,0 +1,7 @@
+﻿  task2.cpp
+c:\users\momo\source\repos\madelinenetwork\madelinenetwork\task2.cpp(21): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+c:\users\momo\source\repos\madelinenetwork\madelinenetwork\task2.cpp(80): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+c:\users\momo\source\repos\madelinenetwork\madelinenetwork\task2.cpp(128): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+c:\users\momo\source\repos\madelinenetwork\madelinenetwork\task2.cpp(129): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+c:\users\momo\source\repos\madelinenetwork\madelinenetwork\task2.cpp(134): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+  MadelineNetwork.vcxproj -> C:\Users\MoMo\source\repos\MadelineNetwork\Debug\MadelineNetwork.exe
